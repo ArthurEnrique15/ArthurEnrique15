@@ -20,7 +20,7 @@
 
 ## About me
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aArthurEnrique15)](https://github.com/ArthurEnrique15)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ArthurEnrique15)](LINK_GIT)
 
