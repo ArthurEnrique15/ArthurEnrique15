@@ -25,11 +25,8 @@
 
  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
  
- </p>
+</p>
 
-
-
-</br>
 </br>
 
 <a href="https://github.com/ArthurEnrique15">
@@ -39,7 +36,5 @@
 <a href="https://github.com/ArthurEnrique15">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurEnrique15&theme=radical&show_icons=true&layout=compact" />
 </a>
-
-
 
 ----------------------------------------------------------------------------------
