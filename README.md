@@ -2,7 +2,7 @@
 
 ## About me
 
-<div width="100%">
+<div width="100%" align="center">
   <a href="https://www.linkedin.com/in/arthur-enrique-47642b1bb/">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-enrique-47642b1bb/" />
   </a>
