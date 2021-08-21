@@ -2,11 +2,15 @@
 
 ## Welcome to my repository!
 
-<div width="100%" align="center">
+<img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center">GitHub Readme Stats</h2>
+ <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/arthur-enrique-47642b1bb/">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-enrique-47642b1bb/" />
   </a>
-</div>
+</p>
 
 </br>
 </br>
