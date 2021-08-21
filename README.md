@@ -2,14 +2,6 @@
 
 ## About me
 
-<style>
-  h1 {color:red;}
-  p {color:blue;}
-</style>
-
-<h1>A heading</h1>
-<p>A paragraph.</p>
-
 <a href="https://www.linkedin.com/in/arthur-enrique-47642b1bb/">
   <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-enrique-47642b1bb/" />
 </a>
