@@ -12,7 +12,7 @@
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=ArthurEnrique15&theme=radical&show_icons=true" />
 </a>
 <a href="https://github.com/ArthurEnrique15">
-  <img height="180em" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurEnrique15&theme=radical&show_icons=true&layout=compact" />
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurEnrique15&theme=radical&show_icons=true&layout=compact" />
 </a>
 
 ----------------------------------------------------------------------------------
