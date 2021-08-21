@@ -14,12 +14,17 @@
 
 </br>
 </br>
-
-<a href="https://github.com/ArthurEnrique15">
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=ArthurEnrique15&theme=radical&show_icons=true" />
-</a>
-<a href="https://github.com/ArthurEnrique15">
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurEnrique15&theme=radical&show_icons=true&layout=compact" />
-</a>
+<p>
+ <div align="center">
+  <a href="https://github.com/ArthurEnrique15">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurEnrique15&theme=radical&show_icons=true" />
+  </a>
+ </div>
+ <div align="center">
+  <a href="https://github.com/ArthurEnrique15">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurEnrique15&theme=radical&show_icons=true&layout=compact" />
+  </a>
+ </div>
+</p>
 
 ----------------------------------------------------------------------------------
