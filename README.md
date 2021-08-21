@@ -2,9 +2,11 @@
 
 ## About me
 
-<a href="https://www.linkedin.com/in/arthur-enrique-47642b1bb/">
-  <img width="100%" align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-enrique-47642b1bb/" />
-</a>
+<div width="100%">
+  <a href="https://www.linkedin.com/in/arthur-enrique-47642b1bb/">
+    <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-enrique-47642b1bb/" />
+  </a>
+</div>
 
 </br>
 </br>
