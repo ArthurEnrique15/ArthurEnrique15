@@ -5,7 +5,8 @@
  <h2 align="center">Welcome to my repository!</h2>
 </p>
 
-![github](https://user-images.githubusercontent.com/77863834/130308830-e3bf245d-0658-4ac4-8cd4-fe59f2d38a05.jpg)
+![github-removebg-preview](https://user-images.githubusercontent.com/77863834/130308932-251ca9eb-bccf-4297-9b06-b4c8e64edb88.png)
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arthur-enrique-47642b1bb/">
