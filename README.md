@@ -3,9 +3,10 @@
 ## About me
 
 <a href="https://www.linkedin.com/in/arthur-enrique-47642b1bb/">
-  <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-enrique-47642b1bb/" />
+  <img width="100%" align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-enrique-47642b1bb/" />
 </a>
 
+</br>
 </br>
 
 <a href="https://github.com/ArthurEnrique15">
