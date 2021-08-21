@@ -1,11 +1,9 @@
 ----------------------------------------------------------------------------
 
 <p align="center">
- <img width="100px" src="https://user-images.githubusercontent.com/77863834/130308932-251ca9eb-bccf-4297-9b06-b4c8e64edb88.png" align="center" alt="GitHub Readme Stats" />
+ <img width="150px" src="https://user-images.githubusercontent.com/77863834/130308932-251ca9eb-bccf-4297-9b06-b4c8e64edb88.png" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">Welcome to my repository!</h2>
 </p>
-
-![github-removebg-preview](https://user-images.githubusercontent.com/77863834/130308932-251ca9eb-bccf-4297-9b06-b4c8e64edb88.png)
 
 
 <p align="center">
