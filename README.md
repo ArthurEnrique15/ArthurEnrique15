@@ -9,7 +9,7 @@
 </br>
 
 <a href="https://github.com/ArthurEnrique15">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArthurEnrique15&theme=radical&show_icons=true&locale=br" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArthurEnrique15&theme=radical&show_icons=true" />
 </a>
 <a href="https://github.com/ArthurEnrique15">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurEnrique15&theme=radical&show_icons=true&layout=compact" />
