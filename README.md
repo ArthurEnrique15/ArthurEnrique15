@@ -6,7 +6,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ArthurEnrique15)](https://github.com/ArthurEnrique15)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://github.com/ArthurEnrique15)]( LINK_LINKEDIN)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-enrique-47642b1bb/)](https://www.linkedin.com/in/arthur-enrique-47642b1bb/)
 
 
 ----------------------------------------------------------------------------------
