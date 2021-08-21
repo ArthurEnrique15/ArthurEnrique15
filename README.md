@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------
 
-## About me
+## Welcome to my repository!
 
 <div width="100%" align="center">
   <a href="https://www.linkedin.com/in/arthur-enrique-47642b1bb/">
