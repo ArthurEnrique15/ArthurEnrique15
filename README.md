@@ -38,3 +38,5 @@
 </a>
 
 ----------------------------------------------------------------------------------
+
+![Snake animation](https://github.com/arthurenrique15/arthurenrique15/blob/output/github-contribution-grid-snake.svg)
