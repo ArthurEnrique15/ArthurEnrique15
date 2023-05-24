@@ -37,9 +37,9 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurEnrique15&theme=radical&show_icons=true&layout=compact" />
 </a>
 
-----------------------------------------------------------------------------------
+<!-- ----------------------------------------------------------------------------------
 <div align="center">
  
 ![Snake animation](https://github.com/arthurenrique15/arthurenrique15/blob/output/github-contribution-grid-snake-dark.svg)
  
- </div>
+</div> -->
